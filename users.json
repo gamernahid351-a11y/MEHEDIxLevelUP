@@ -1,0 +1,23 @@
+{
+  "Jony": {
+    "username": "Jony",
+    "password": "Sins",
+    "account_limit": 2,
+    "duration_seconds": 3600,
+    "duration_value": 1,
+    "duration_unit": "hours",
+    "created_at": 1790485959.9866283,
+    "expires_at": 1790489559.9866283,
+    "accounts": [
+      {
+        "uid": "7917228325",
+        "password": "7C1E22B7394EF92F9D0A95A4C72750445709AF4B78C3902070A2EECC466C0D7E",
+        "added_at": 1790486017.6832662,
+        "paused": false
+      }
+    ],
+    "total_accounts_added": 1,
+    "last_login": 1790487922.2663016,
+    "is_active": true
+  }
+}

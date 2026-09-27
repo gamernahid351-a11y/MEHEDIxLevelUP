@@ -1,0 +1,90 @@
+[
+  {
+    "id": "starting",
+    "name": "Starting",
+    "price": 99,
+    "old_price": 199,
+    "duration_value": 1,
+    "duration_unit": "days",
+    "account_limit": 3,
+    "icon": "fa-bolt",
+    "color": "blue",
+    "popular": false,
+    "enabled": true,
+    "features": [
+      "Access To The Panel For 1 Day",
+      "Fast Leveling Performance",
+      "Run Multiple Accounts At Once",
+      "Restart & Manage Accounts Anytime",
+      "Runs While You Are Offline",
+      "Telegram Payment Support & Quick Help",
+      "3 Concurrent Accounts"
+    ]
+  },
+  {
+    "id": "basic",
+    "name": "Basic",
+    "price": 199,
+    "old_price": 399,
+    "duration_value": 2,
+    "duration_unit": "days",
+    "account_limit": 3,
+    "icon": "fa-star",
+    "color": "purple",
+    "popular": true,
+    "enabled": true,
+    "features": [
+      "Access To The Panel For 2 Days",
+      "Fast Leveling Performance",
+      "Run Multiple Accounts At Once",
+      "Restart & Manage Accounts Anytime",
+      "Runs While You Are Offline",
+      "Telegram Payment Support & Quick Help",
+      "3 Concurrent Accounts"
+    ]
+  },
+  {
+    "id": "premium",
+    "name": "Premium",
+    "price": 249,
+    "old_price": 599,
+    "duration_value": 3,
+    "duration_unit": "days",
+    "account_limit": 4,
+    "icon": "fa-crown",
+    "color": "orange",
+    "popular": false,
+    "enabled": true,
+    "features": [
+      "Access To The Panel For 3 Days",
+      "Fastest Leveling Speed Available",
+      "Run Multiple Accounts At Once",
+      "Restart & Manage Accounts Anytime",
+      "Runs 24/7 — No Need To Stay Online",
+      "Telegram Payment Support & Quick Help",
+      "4 Concurrent Accounts"
+    ]
+  },
+  {
+    "id": "safe",
+    "name": "Safe",
+    "price": 699,
+    "old_price": 999,
+    "duration_value": 7,
+    "duration_unit": "days",
+    "account_limit": 5,
+    "icon": "fa-shield-halved",
+    "color": "emerald",
+    "popular": false,
+    "enabled": true,
+    "features": [
+      "Access To The Panel For 7 Days",
+      "Fastest Leveling Speed Available",
+      "Run Multiple Accounts At Once",
+      "Restart & Manage Accounts Anytime",
+      "Runs 24/7 — No Need To Stay Online",
+      "Telegram Payment Support & Quick Help",
+      "5 Concurrent Accounts"
+    ]
+  }
+]
